@@ -1,0 +1,15 @@
+C:\Projetos(senai)\Atividade\bin\Debug\net7.0\Atividade.exe
+C:\Projetos(senai)\Atividade\bin\Debug\net7.0\Atividade.deps.json
+C:\Projetos(senai)\Atividade\bin\Debug\net7.0\Atividade.runtimeconfig.json
+C:\Projetos(senai)\Atividade\bin\Debug\net7.0\Atividade.dll
+C:\Projetos(senai)\Atividade\bin\Debug\net7.0\Atividade.pdb
+C:\Projetos(senai)\Atividade\obj\Debug\net7.0\Atividade.csproj.AssemblyReference.cache
+C:\Projetos(senai)\Atividade\obj\Debug\net7.0\Atividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos(senai)\Atividade\obj\Debug\net7.0\Atividade.AssemblyInfoInputs.cache
+C:\Projetos(senai)\Atividade\obj\Debug\net7.0\Atividade.AssemblyInfo.cs
+C:\Projetos(senai)\Atividade\obj\Debug\net7.0\Atividade.csproj.CoreCompileInputs.cache
+C:\Projetos(senai)\Atividade\obj\Debug\net7.0\Atividade.dll
+C:\Projetos(senai)\Atividade\obj\Debug\net7.0\refint\Atividade.dll
+C:\Projetos(senai)\Atividade\obj\Debug\net7.0\Atividade.pdb
+C:\Projetos(senai)\Atividade\obj\Debug\net7.0\Atividade.genruntimeconfig.cache
+C:\Projetos(senai)\Atividade\obj\Debug\net7.0\ref\Atividade.dll
